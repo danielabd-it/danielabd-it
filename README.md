@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">I'm an aspiring cybersecurity and cloud professional</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielabd-it" alt="danielabd-it" /></a> </p>
+<h3 align="center">I'm an aspiring cybersecurity and cloud professional. Feel free to connect!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
